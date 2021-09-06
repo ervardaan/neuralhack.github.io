@@ -1,0 +1,103 @@
+.div1{text-align: center;background-color: rgb(245, 66, 203);padding-bottom: 1%;border:solid 5px blue;margin-bottom: 2%;}
+.div1 h2{color: white;}
+.indiv11{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background-color: blue;padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+.indiv12{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background-color: yellow;padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+.indiv13{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background-color: green;padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+.indiv11:hover,.indiv12:hover,.indiv13:hover{background-color: black;}
+a{text-decoration: none;color:red;}
+a:hover{color: white;}
+.div2{height: 100%;background-color: blue;width: 25%;float:left;margin-right: 2.3%;}
+.indiv21{background-color: yellow;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv22{background-color: brown;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv23{background-color: darkcyan;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv24{background-color: green;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv25{background-color: red;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.div3{height: 100%;width: 40%;background-color: blue;display: inline-block;float: left;margin-right: 2.4%;text-align: center;}
+.div4{display: inline-block;width:30%;height: 100%;background-color: blue;text-align: center;}
+.div4 p{margin-top: 8%;margin-bottom: 8%;padding-top: 10%;padding-bottom: 10%;background-color: green;}
+.div4 p:hover{background-color: yellow;}
+.indiv21:hover,.indiv25:hover,.indiv22:hover,.indiv23:hover,.indiv24:hover{background-color: maroon;}
+.div3 h5{margin-top:15%;margin-bottom: 15%;}
+.div3 h3{margin-top: 15%;margin-bottom: 15%;}
+.div2{text-align: center;}
+h1{color: red;text-align: center;}
+.div3 h3:hover{color: white;}
+.div3 h5{color: white;}
+.div4 h3{color: white;}
+.div2 h3{color: white;}
+.div6 h1{text-align: center;background-repeat: no-repeat;
+  background-position: left bottom;  text-transform: uppercase;
+  background-image: linear-gradient(to right, #f00,#ff0,#0ff,#0f0,#00f);
+  background-clip: text;
+  animation: animate 20s linear infinite;
+  background-size: 100%;
+  
+  text-decoration: none;}
+.indiv63,.indiv61,.indiv64{display: inline-block;padding-right: 5%;padding-left: 5%;text-align:center;background-repeat: no-repeat;
+  background-position: left bottom;  text-transform: uppercase;
+  background-image: linear-gradient(to right, #f00,#ff0,#0ff,#0f0,#00f);
+  background-clip: text;
+  animation: animate 20s linear infinite;
+  background-size: 100%;
+  
+  text-decoration: none;}
+.indiv62,.indiv65{display: inline-block;padding-right: 5%;padding-left: 5%;background-repeat: no-repeat;
+  background-position: left bottom;  text-transform: uppercase;
+  background-image: linear-gradient(to right, #f00,#ff0,#0ff,#0f0,#00f);
+  background-clip: text;
+  animation: animate 20s linear infinite;
+  background-size: 100%;
+  
+  text-decoration: none;}
+@keyframes animate
+{
+  0%
+  {
+    background-position: 0% 100%;
+  }
+  50%
+  {
+    background-position: 100% 0%;
+  }
+  100%
+  {
+    background-position: 0% 100%;
+  }
+}
+.right-col{
+  flex-basis: 55%;
+}
+.div6 h1:hover{
+  background-size: 100% 3px;color:#000000; 
+}
+.indiv61 a:hover{color: black;}
+.indiv62 a:hover{color: black;}
+.indiv63 a:hover{color: black;}
+.indiv64 a:hover{color: black;}
+.indiv65 a:hover{color: black;}
+.div7{width: 47%;text-align: center;background-color: rgba(161, 3, 252,0.4);float: left;margin-top: 2%;}
+.div8{width: 47%;text-align: center;background-color: rgba(3, 215, 252,0.4);display: inline-block;margin-top: 2%;margin-left: 2%;}
+.indiv81{padding-top: 8%;padding-bottom: 8%;}
+.indiv82{padding-top: 8%;padding-bottom: 8%;}
+.indiv83{padding-top: 8%;padding-bottom: 8%;}
+.div9{clear: left;display: block;text-align: center;}
+.indiv91{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.indiv92{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.indiv93{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.div9 h3{text-align: center;}
+.indiv91 a{padding-left: 8%;padding-right: 8%;}
+.indiv92 a{padding-left: 8%;padding-right: 8%;}
+.indiv93 a{padding-left: 8%;padding-right: 8%;}
+.div7 h2{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.div8 h3{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.div9 h3{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.indiv81,.indiv82,.indiv83{background-image: linear-gradient(blue, yellow, black);}
+.indiv71,.indiv72,.indiv73,.indiv74,.indiv75,.indiv76,.indiv77,.indiv78,.indiv79,.indiv710,.indiv711,.indiv712{background-image: linear-gradient(green, red, white);}
+.div10{width: 45%;background-color:rgba(255, 99, 71,0.4);margin-top:2%;float: left;}
+.div9 a{color:white;}
+.div9 a:hover{color: black;}
+.div11{display: inline-block;width: 45%;float: left;margin-top: 2%;background-color:rgba(122,78,200,0.4);margin-left: 4%;}
+.indiv111,.indiv112{padding-top: 5%;padding-bottom: 5%;}
+.indiv111 p,.indiv112 p{padding-top: 12%;padding-bottom: 12%;}
+.indiv111 h4,.indiv112 h4{background-image: linear-gradient(white, red, green); }
+.div11 h2{background-image: linear-gradient(blue, red, green);}

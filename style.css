@@ -1,0 +1,30 @@
+.oc{
+	background: linear-gradient(45deg, #13e7dd, #ff4d);
+
+}
+.div1{text-align: center; padding-bottom: 1%;margin-bottom: 2%;}
+.div1 h2{color: white;}
+.indiv11{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background: linear-gradient(45deg, #87adfe, #ff77cd) ;border-radius: 6px; box-sizing: border-box;box-shadow: 3px 8px 22px rgba(94,28,68,0.15) ;padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+.indiv12{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background: linear-gradient(45deg, #87adfe, #ff77cd) ; border-radius: 6px; box-sizing: border-box; padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+.indiv13{padding-left: 13%;padding-right: 13%;display: inline-block;margin-top: -1%;background: linear-gradient(45deg, #87adfe, #ff77cd) ; border-radius: 6px; box-sizing: border-box; padding-top: 1%;padding-bottom: 1%;text-decoration: none;}
+a{text-decoration: none;color:red;}
+a:hover{color: white;}
+.div2{height: 100%;background-color: blue;width: 25%;float:left;margin-right: 2.3%;}
+.indiv21{background-color: yellow;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv22{background-color: brown;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv23{background-color: darkcyan;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv24{background-color: green;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.indiv25{background-color: red;padding-top: 1%;padding-bottom: 1%;margin-bottom: 3.8%;}
+.div3{height: 100%;width: 40%;background-color: blue;display: inline-block;float: left;margin-right: 2.4%;text-align: center;}
+.div4{display: inline-block;width:30%;height: 100%;background-color: blue;text-align: center;}
+.div4 p{margin-top: 8%;margin-bottom: 8%;padding-top: 10%;padding-bottom: 10%;background-color: green;}
+.div4 p:hover{background-color: yellow;}
+.indiv21:hover,.indiv25:hover,.indiv22:hover,.indiv23:hover,.indiv24:hover{background-color: maroon;}
+.div3 h5{margin-top:15%;margin-bottom: 15%;}
+.div3 h3{margin-top: 15%;margin-bottom: 15%;}
+.div2{text-align: center;}
+h1{color: red;text-align: center;}
+.div3 h3:hover{color: white;}
+.div3 h5{color: white;}
+.div4 h3{color: white;}
+.div2 h3{color: white;}
